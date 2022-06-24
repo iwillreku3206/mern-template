@@ -9,7 +9,7 @@ This is mainly for my own personal username
 - `src/packages/backend/Config/fallback.ini`
   Change `DbName`
 
-- `src/packages/backend/Config/Config.tsx`
+- `src/packages/backend/Config/Config.ts`
   Change `mern-template-app` to your app's name
 
 - `src/packages/frontend/src/pages/login/index.tsx`
